@@ -1,4 +1,4 @@
-# Lab Active Directory Vulnérable – DAT Simplon 2025
+# Lab Active Directory Vulnérable – DAT 
 
 ## Présentation
 
@@ -42,3 +42,4 @@ Ce projet propose un environnement de laboratoire complet pour l’apprentissage
 ---
 
 Pour toute question ou suggestion : ouvrez une issue ou contactez l’auteur.
+
