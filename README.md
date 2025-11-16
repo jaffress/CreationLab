@@ -32,7 +32,7 @@ Ce projet propose un environnement de laboratoire complet pour l’apprentissage
 ## Ressources utiles
 - [PowerShell Get-FileHash](https://learn.microsoft.com/powershell/module/microsoft.powershell.utility/get-filehash)
 - [BadBlood (GitHub)](https://github.com/davidprowe/BadBlood)
-- [VulnerableLightApp](https://github.com/Orange-Cyberdefense/VulnerableLightApp)
+- [VulnerableLightApp](https://github.com/Aif4thah/VulnerableLightApp)
 
 ## Auteur & crédits
 - Réalisé par Elif J. dans le cadre du DAT Simplon 2025
@@ -42,4 +42,5 @@ Ce projet propose un environnement de laboratoire complet pour l’apprentissage
 ---
 
 Pour toute question ou suggestion : ouvrez une issue ou contactez l’auteur.
+
 
